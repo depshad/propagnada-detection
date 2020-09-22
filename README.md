@@ -4,4 +4,4 @@ Implementation of the system described in `Propaganda Span Identification using 
 
 Link to the paper : https://propaganda.qcri.org/papers/310_Paper.pdf 
 
-![Proposed Solution](https://github.com/depshad/propagand-detection/blob/master/Proposed_Solution.png?raw=true)
+![Proposed Solution](https://github.com/depshad/propagnada-detection/blob/master/Proposed_Solution.png)
