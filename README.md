@@ -2,7 +2,7 @@
 
 Implementation of the system described in `Propaganda Span Identification using Diversified BERT Architectures based Ensemble Learning'.
 
-Link to the paper : https://propaganda.qcri.org/papers/310_Paper.pdf 
+Link to the paper : https://www.aclweb.org/anthology/2020.semeval-1.239.pdf
 
 ## Abstract
 
